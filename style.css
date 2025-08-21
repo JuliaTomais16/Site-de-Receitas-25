@@ -30,7 +30,8 @@ img{
     color: #F7DAD9;
     display: flex;
     justify-content: center;
-    font-size: 150%;
+    font-size: 200%;
+    padding: 20px;
 }
 
 .imagem{
